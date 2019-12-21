@@ -47,3 +47,13 @@ int main(){
     }
     return 0;
 }
+/*
+Input
+First line of input contains T, the number of test cases. T test cases follow.
+Each test case contains 2 lines. First line contains two integers N and K. 
+Next line contains N space separated non-negative integers
+
+Output
+Output T lines, one for each test case. 
+Every line should be either 0 or 1 depending on whether such a subset exists or not.
+*/
